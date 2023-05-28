@@ -1,5 +1,7 @@
 # coc.nvim-
 
+先安装clash for linux
+
 根据搜索结果¹²，你需要先安装**neovim**和**vim-plug**，然后通过**vim-plug**安装**coc.nvim**插件，最后配置相应的语言服务器。
 
 具体步骤如下：
